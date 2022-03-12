@@ -149,7 +149,7 @@
 
 | Atribut | Fungsi |
 | -------- | --- |
-| `_self` | Membuka dokumen tertaut dalam bingkai yang sama dengan yang diklik (ini default) |
+| `_self` | Membuka dokumen tertaut dalam bingkai yang sama dengan yang diklik (ini default). |
 | `_blank` | Membuka dokumen tertaut di jendela atau tab baru. |
-| `_top` | Membuka dokumen tertaut di seluruh body dari jendela |
-| `_parent` | Membuka dokumen tertaut di bingkai induk |
+| `_top` | Membuka dokumen tertaut di seluruh body dari jendela. |
+| `_parent` | Membuka dokumen tertaut di bingkai induk. |
